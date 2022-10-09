@@ -1,0 +1,25 @@
+body {
+    font-family: "Open Sans";
+background-color: #3512b3;
+color: #12b318;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Oswald";
+    font-size:45pt;
+}
+header {
+    text-align: center;
+}
+#hero, footer {
+    background-color: #338036;
+    padding: 10px;
+    border: 2px solid;
+    text-align: center;
+}
+#hero img {
+    width: 300px;
+}
+#bio {
+    text-align: center;
+}
