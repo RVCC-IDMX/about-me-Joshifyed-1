@@ -24,11 +24,20 @@ header {
     text-align: center;
 }
 #gallery {
-    border: 2px solid #96e601
+    border: 2px solid #96e601;
+   margin-bottom:2rem;
 }
 #gallery img {
     max-width: 100%;
 }
 #gallery figure {
     text-align: center;
+}
+#lit {
+    border: 2px solid white;
+    margin-bottom: 2rem;
+}
+#lit div {
+    padding:2rem;
+    margin: 0 auto;
 }
