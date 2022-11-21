@@ -102,6 +102,56 @@
 
 </div>
 </article>
+
+<section id="contact">
+<h2>Contact Us</h2>
+<form id="ContactForm" name="ContactForm" method="post" data-netlify="true">
+<fieldset>
+<legend>ContactForm</legend>
+
+<div id="formElements">
+<label for="name">Name(Required)</label>
+<input type="text" id="name" name="name" required>
+
+<label for="email">email(Required)</label>
+<input type="email" id="email" name="email" required>
+
+<label for="phone">phone(Optional)</label>
+<input type="tel" id="phone" name="phone" required>
+
+<label for="phonetype">Phone type(Optional)</label>
+<select id="phonetype" name="phonetype">
+<option value=""selected >  Select Phone Type</option>
+<option value="Mobile">  Mobile</option>
+<option value="Work" >  Work</option>
+<option value="Home" >  Home</option>
+</select>
+
+<label for="message"> Message (Optional)</label>
+<textarea id="message" name="message" rows="6"></textarea>
+<fieldset>
+    <Legend>Would You Like a Reply?</Legend>
+<ul>
+    <li><input type="radio"id=message-yes><label for="message-yes">Yes</label></li>
+    <li><input type="radio"id=message-no><label for="message-no">No</label></li>
+
+</ul>
+
+</fieldset>
+
+<button type="submit">Send
+
+</button>
+
+</div>
+
+</fieldset>
+
+
+</form>
+
+
+</section>
     </main>
     <footer>
 ©2022 Joshua Osborne

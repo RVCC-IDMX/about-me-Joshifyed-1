@@ -61,3 +61,7 @@ section#hobbies {
         font-size: 2rem;
     }
 }
+
+#formElements {
+    display: grid;
+}
