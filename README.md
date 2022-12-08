@@ -12,4 +12,7 @@ Purple - #903ae (144,58,233)
 Blue - #3512b3 (53,18,179)
 
 Citations -
-None needed
+https://blog.hubspot.com/website/css-hover-animation
+https://www.simplilearn.com/tutorials/css-tutorial/css-hover-effects
+https://teamtreehouse.com/community/how-can-i-target-a-picture-in-css
+https://stackoverflow.com/questions/10829675/how-to-put-an-image-in-div-with-css
